@@ -89,13 +89,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 ## **Contributing**
 We welcome contributions! Feel free to fork the repo, make changes, and submit a pull request.
-
----
-## **Author**
-**Alekya Puram**
-
----
-## **Contact**
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [your-github-profile](https://github.com/yourusername)  
+ 
 
