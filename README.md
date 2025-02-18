@@ -82,12 +82,4 @@ This project implements an **image-based steganography system** that allows user
 - **Integration with Cloud Storage**: Securely store encrypted images online.
 - **Mobile Application**: Develop an Android/iOS app for easy encryption on mobile devices.
 
----
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-## **Contributing**
-We welcome contributions! Feel free to fork the repo, make changes, and submit a pull request.
- 
 
