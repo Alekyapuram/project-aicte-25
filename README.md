@@ -31,7 +31,7 @@ This project implements an **image-based steganography system** that allows user
 ## **Installation & Setup**
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/steganography.git
+   git clone https://github.com/Alekyapuram/project-aicte-25.git
    cd steganography
    ```
 2. **Create and Activate Virtual Environment:**
